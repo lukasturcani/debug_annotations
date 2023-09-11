@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools", "setuptools_scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "debug_annotations"
+maintainers = [
+  { name = "Lukas Turcani", email = "lukasturcani93@gmail.com" },
+]
+
+dependencies = ["sphinx"]
+requires-python = ">=3.11"
+version = "0.1.0"
