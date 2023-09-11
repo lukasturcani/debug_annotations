@@ -55,5 +55,3 @@ our annotations will be correct. However if we do
 #. ``make -C docs doctest``
 
 our error will return! is this some kind of caching issue?
-
-Finally: in the file ``docs/source/_templates/class.rst``
