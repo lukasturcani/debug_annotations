@@ -54,4 +54,4 @@ our annotations will be correct. However if we do
 #. ``rm -r docs/source/_autosummary``
 #. ``make -C docs doctest``
 
-is this some kind of caching issue?
+our error will return! is this some kind of caching issue?
